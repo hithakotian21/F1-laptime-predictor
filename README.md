@@ -21,4 +21,5 @@ This project uses **machine learning** to predict Formula 1 lap times based on h
    ```bash
    pip install -r requirements.txt
 3. Run it
+   ```bash
    streamlit run lap_time_prediction.py
